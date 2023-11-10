@@ -1,0 +1,4 @@
+C:\Users\dpole\source\repos\KSKSClient\KSKSClient\x64\Debug\KSKSClient.vcxproj.AssemblyReference.cache
+C:\Users\dpole\Desktop\KSKSClient\KSKSClient\x64\Debug\KSKSClient.vcxproj.AssemblyReference.cache
+C:\Users\dpole\Desktop\КСКС ЛР №6 КН-21-2\KSKSClient\KSKSClient\x64\Debug\KSKSClient.vcxproj.AssemblyReference.cache
+C:\Users\dpole\Desktop\КСКС ЛР №7 КН-21-2\KSKSClient\KSKSClient\x64\Debug\KSKSClient.vcxproj.AssemblyReference.cache

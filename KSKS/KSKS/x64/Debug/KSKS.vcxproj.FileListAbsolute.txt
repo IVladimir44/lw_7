@@ -1,0 +1,3 @@
+C:\Users\dpole\source\repos\KSKS\KSKS\x64\Debug\KSKS.vcxproj.AssemblyReference.cache
+C:\Users\dpole\Desktop\KSKS\KSKS\x64\Debug\KSKS.vcxproj.AssemblyReference.cache
+C:\Users\dpole\Desktop\КСКС ЛР №6 КН-21-2\KSKS\KSKS\x64\Debug\KSKS.vcxproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+﻿  MyForm.cpp
+C:\Users\dpole\Desktop\КСКС ЛР №7 КН-21-2\KSKS\KSKS\MyForm.h(88,48): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dpole\Desktop\КСКС ЛР №7 КН-21-2\KSKS\KSKS\MyForm.h(229,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №7 КН-21-2\KSKS\KSKS\MyForm.h(232,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №7 КН-21-2\KSKS\KSKS\MyForm.h(235,67): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №7 КН-21-2\KSKS\KSKS\MyForm.h(242,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №7 КН-21-2\KSKS\KSKS\MyForm.h(242,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\dpole\Desktop\КСКС ЛР №7 КН-21-2\KSKS\KSKS\MyForm.h(514,47): error C2065: g: необъявленный идентификатор
+C:\Users\dpole\Desktop\КСКС ЛР №7 КН-21-2\KSKS\KSKS\MyForm.h(606,86): error C2065: DataIm: необъявленный идентификатор
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
